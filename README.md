@@ -6,7 +6,7 @@
 </p>
 
 ![Language](https://img.shields.io/badge/Language-Swift-orange.svg)
-![Challenges](https://img.shields.io/badge/Challenges-8_Complete-green.svg)
+![Challenges](https://img.shields.io/badge/Challenges-9_Complete-green.svg)
 
 This repository contains my solutions to challenges from hackerrank.com. Solutions are written entirely in Swift. This markdown file tracks my progress as I complete each challenge.
 
