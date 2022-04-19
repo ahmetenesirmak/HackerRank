@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-9_Complete-orange.svg) 
+![Algorithms](https://img.shields.io/badge/Challanges-10_Complete-orange.svg) 
 
 ##### Warmup Challenges
 - [x] [Solve Me First](Warmup/solve-me-first.swift) `Easy`
@@ -12,3 +12,6 @@
 - [x] [Mini-Max Sum](Warmup/mini-max-sum.swift) `Easy`
 - [x] [Time Conversion](Warmup/time-conversion.swift) `Easy`
 - [x] [Birthday Cake Candles](Warmup/birthday-cake-candles.swift) `Easy`
+
+##### Strings Challenges
+- [x] [CamelCase](Strings/camelcase.swift) `Easy`
