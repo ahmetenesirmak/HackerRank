@@ -15,6 +15,7 @@
 
 ##### Strings Challenges
 - [x] [CamelCase](Strings/camelcase.swift) `Easy`
+- [x] [Mars Exploration](Strings/mars-exploration.swift) `Easy`
 
 ##### Implementation Challenges
 - [x] [Grading Students](Implementation/grading-students.swift) `Easy`
